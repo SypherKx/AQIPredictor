@@ -72,15 +72,9 @@ MSE: ~0.05
 ## 🖼️ Screenshots  
 
 ### Model Training Results  
-![Training Results](assets/training_results.png)  
-
-### Prediction vs Actual  
-![Prediction Plot](assets/prediction_vs_actual.png)  
-
-### Feature Importance  
-![Feature Importance](assets/feature_importance.png)  
-
-*(Save your notebook plots as images inside an `assets/` folder and link them here.)*  
+![Training Results](<img width="987" height="590" alt="download (1)" src="https://github.com/user-attachments/assets/c6a692a7-ced7-4d21-885e-667616d828c0" />)  
+ 
+![Prediction Plot](<img width="888" height="890" alt="download" src="https://github.com/user-attachments/assets/52d8ee40-578b-4a98-8881-045eeea73fa4" />)  
 
 ---
 
